@@ -1,0 +1,39 @@
+orangehrm_automation/
+│
+├── pages/
+│   ├── base_page.py
+│   ├── login_page.py
+│   ├── dashboard_page.py
+│   ├── admin_page.py
+│   ├── myinfo_page.py
+│   ├── leave_page.py
+│   └── claims_page.py
+│
+├── tests/
+│   ├── test_tc01_login_data_driven.py
+│   ├── test_tc02_home_access.py
+│   ├── test_tc03_login_fields.py
+│   ├── test_tc04_menu_items.py
+│   ├── test_tc05_create_user.py
+│   ├── test_tc06_search_user.py
+│   ├── test_tc07_forgot_password.py
+│   ├── test_tc08_myinfo_submenus.py
+│   ├── test_tc09_assign_leave.py
+│   └── test_tc10_claim_request.py
+│
+├── utils/
+│   ├── driver_factory.py
+│   ├── excel_utils.py
+│   └── logger.py
+│
+├── testdata/
+│   └── login_data.csv
+│
+├── reports/
+│   ├── screenshots/
+│   └── logs/
+│
+├── pytest.ini
+├── conftest.py
+├── requirements.txt
+└── README.md

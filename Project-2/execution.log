@@ -1,0 +1,7 @@
+2026-08-09 22:30:01 [INFO] Starting OrangeHRM automation test suite
+2026-08-09 22:30:03 [INFO] TC01: Login data-driven tests started
+2026-08-09 22:30:09 [INFO] TC01: Login passed for Admin
+2026-08-09 22:30:15 [INFO] TC05: New user created: testuser_1623456789
+2026-08-09 22:30:27 [ERROR] TC07: Forgot password flow did not show confirmation
+2026-08-09 22:30:42 [ERROR] TC10: Claim submission failed - module not found
+2026-08-09 22:30:45 [INFO] Test suite completed: 8 passed, 2 failed
