@@ -1,4 +1,0 @@
-username,password,expected
-Admin,admin123,pass
-wronguser,wrongpass,fail
-Admin,wrongpass,fail
